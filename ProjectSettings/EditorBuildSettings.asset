@@ -6,10 +6,13 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/ForestFire/Scenes/Main Menu.unity
+    guid: c4f7b91a4fa514f4c9604d317b9c30af
+  - enabled: 1
     path: Assets/ForestFire/Scenes/ForestFire3D.unity
     guid: bdfaffa30ba9dc844afffb78261241c8
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: cc9d5552ba6b55642b1f810556cfdcdf,
       type: 2}
-    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: bb04fe72e62d5a547862d752bcedb431,
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: e35860e5dc61fc94d912e8548f96958d,
       type: 2}
