@@ -73,3 +73,13 @@ The following packages were updated:
   com.unity.xr.interaction.toolkit from version 1.0.0-pre.6 to 2.0.2
   com.unity.xr.management from version 4.0.7 to 4.2.0
   com.unity.xr.oculus from version 1.10.0 to 3.0.2
+
+=== Fri Nov 25 15:07:31 2022
+
+Packages were changed.
+Update Mode: mergeDefaultDependencies
+
+The following packages were added:
+  com.unity.ide.rider@1.2.1
+  com.unity.test-framework@1.1.14
+  com.unity.timeline@1.2.10
